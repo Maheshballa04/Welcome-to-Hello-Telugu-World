@@ -1,0 +1,8 @@
+Class Mahesh
+ {
+  Public static void main(String args[])
+   {
+    System.out.println("Hello Telugu Computer World");
+   }
+ }
+
